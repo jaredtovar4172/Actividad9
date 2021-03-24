@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\EJ9_\EJ9_\bin\Debug\EJ9_.exe.config
+C:\Users\jared\source\repos\EJ9_\EJ9_\bin\Debug\EJ9_.exe
+C:\Users\jared\source\repos\EJ9_\EJ9_\bin\Debug\EJ9_.pdb
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.Form1.resources
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.Properties.Resources.resources
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.exe
+C:\Users\jared\source\repos\EJ9_\EJ9_\obj\Debug\EJ9_.pdb
